@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">newone</string>
+    <string name="username">username</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+</resources>
